@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "597199649804",
+    "firebase_url": "https://promeet-4e857.firebaseio.com",
+    "project_id": "promeet-4e857",
+    "storage_bucket": "promeet-4e857.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597199649804:android:db386ea4f5006934",
+        "android_client_info": {
+          "package_name": "gabytech.promeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597199649804-064r91i3iq6qfkcr01mqiv6l9q9fuifl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gabytech.promeet",
+            "certificate_hash": "053bebc61544b0eb2b8d776dc0b74cb4206545c4"
+          }
+        },
+        {
+          "client_id": "597199649804-cbjfbm96kev1u6bt45sug8hromr9ro02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnNMPXQDl54v983iiJQSOiH1BW08prQ78"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597199649804-cbjfbm96kev1u6bt45sug8hromr9ro02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
